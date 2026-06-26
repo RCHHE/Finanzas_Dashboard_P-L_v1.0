@@ -1,7 +1,7 @@
 1. **Capa de Almacenamiento (SQL Server):** Normalización de las transacciones históricas reales y metas presupuestadas asociadas a las sedes de Lima y Arequipa.
 2. **Capa de Abstracción (Vistas SQL):** Desacoplamiento directo de las tablas físicas del motor para garantizar un rendimiento óptimo de refresco y consistencia de los tipos de datos.
 3. **Capa Analítica (Power BI / DAX):** Estructuración bajo un diseño de **Modelo en Estrella**, implementando lógica de negocio financiera a través de una tabla dedicada única de medidas (`_Medidas Financieras`).
-
+---
 
 ## El Dashboard Financiero (`Finanzas_Dashboard_P&L_v1.0`)
 ![Dashboard Financiero](./Finanzas_Dashboard_P&L_v1.0.png)
