@@ -27,6 +27,6 @@ Navegación jerárquica nativa (`Clase --> Categoría --> Subcategoría`) que co
 
 * **Base de Datos:** SQL Server (Modelado Relacional, Vistas de Abstracción, Integridad Referencial).
 * **Business Intelligence:** Power BI Desktop, DAX (Data Analysis Expressions) para modelado e inteligencia de tiempo.
-* **Diseño Ejecutivo:** Estilo corporativo premium basado en contrastes limpios, alineación contable estricta y formato de datos estandarizado.
+
 
 ---
