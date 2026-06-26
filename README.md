@@ -3,8 +3,8 @@
 3. **Capa Analítica (Power BI / DAX):** Estructuración bajo un diseño de **Modelo en Estrella**, implementando lógica de negocio financiera a través de una tabla dedicada única de medidas (`_Medidas Financieras`).
 
 
-## El Dashboard Financiero (`Finanzas_Dashboard_P&L_v1.0.png`)
-
+## El Dashboard Financiero (`Finanzas_Dashboard_P&L_v1.0`)
+![Dashboard Financiero](./Finanzas_Dashboard_P&L_v1.0.png)
 El reporte ejecutivo final está diseñado bajo estrictos estándares de UI/UX financieros (Paleta *Emerald Corporate*), estructurado en tres secciones críticas de decisión:
 
 ### 1. Cabecera Directiva (KPI Cards)
